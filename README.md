@@ -2,10 +2,10 @@
 
 
 ##
-The objective of this project is to accurately predict weather or not a borrower of a loan will pay the loan in full or no
-As an investor you would want to invest in people who showed a profile of having a high probability of paying you back. We will try to create a model that will help predict this.
-In order to accurately predict this, we create a Decision tree and a Random forest in order to obtain Classification report and Confusion matrix from the testing set. The program should be able to train itself by obtaining a training set from the given data set and then run a test set on the trained model in order to predict the desired outcome. Furthermore, it gives us its accuracy measures which we can obtain from the Classification report.
-These results obtained from the DECISION TREE and RANDOM FOREST are then compared in order to find out which method is optimal, as per the requirements.
+- The objective of this project is to accurately predict weather or not a borrower of a loan will pay the loan in full or no
+- As an investor you would want to invest in people who showed a profile of having a high probability of paying you back. We will try to    create a model that will help predict this.
+- In order to accurately predict this, we create a Decision tree and a Random forest in order to obtain Classification report and Confusion matrix from the testing set. The program should be able to train itself by obtaining a training set from the given data set and then run a test set on the trained model in order to predict the desired outcome. Furthermore, it gives us its accuracy measures which we can obtain from the Classification report.
+- These results obtained from the DECISION TREE and RANDOM FOREST are then compared in order to find out which method is optimal, as per the requirements.
 
 ### Datasets
 
